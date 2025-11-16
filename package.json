@@ -1,0 +1,20 @@
+{
+  "name": "zoominfo_company_scrpaer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "csv-parser": "^3.2.0",
+    "i": "^0.3.7",
+    "node-fetch": "^3.3.2",
+    "npm": "^11.5.2",
+    "papaparse": "^5.5.3",
+    "uuid": "^11.1.0"
+  }
+}
